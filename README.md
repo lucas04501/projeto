@@ -27,4 +27,4 @@
 
 - 🌱 I’m currently learning " HTML, CSS, JS"
 
-O "FIRSTP" é um agregador de links para usar como cartao de visitas online
+The "FIRSTP" is a link aggregator to use as an online business card
